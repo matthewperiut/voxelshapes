@@ -14,7 +14,7 @@ You can also implement `HasCollisionVoxelShape` by itself, to only give collisio
 Include in your build.gradle
 ```
 dependencies {
-    implementation("com.github.KydZombie:voxel-shapes:${project.voxelshapes_version}") { transitive false }
+    implementation("com.github.matthewperiut:voxelshapes:${project.voxelshapes_version}") { transitive false }
 }
 ```
 
